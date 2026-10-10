@@ -1,0 +1,7 @@
+Issue,Action,Records affected
+Duplicate rows,Removed exact duplicate rows,107
+Text formatting,Removed extra spaces and standardized selected categories,Applicable text values
+Missing age values,Filled missing values with median age,106
+Missing embarked values,Filled with most frequent category,2
+Missing embark_town values,Filled with most frequent category,2
+Missing deck values,Replaced missing values with Unknown,582
